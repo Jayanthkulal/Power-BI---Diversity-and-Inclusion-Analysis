@@ -18,9 +18,9 @@ Calculating the following measures could help to define proper KPIs:
 - Average Performance rating: women
 
 ## Datasource :
-Dataset used for this task was presented by Pwc and Diversity and Inclusion dataset:
+Dataset used for this task was presented by [Pwc](https://www.pwc.in/)  and Diversity and Inclusion dataset:
 
-Dataset: Diversity and Inclusion
+Dataset: [Diversity and Inclusion](
 
 ## Data Preparation:
 Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
@@ -68,7 +68,7 @@ As shown the data Visualization, It can be deduced that:
   
 - Promotions seem to be more favorable for men in higher positions, while women are better represented in Junior Officer promotions (52%).
 
--There's a noticeable gender gap in promotions at the executive level, with women making up only 13% of executives promoted.
+- There's a noticeable gender gap in promotions at the executive level, with women making up only 13% of executives promoted.
 
 - Female leavers tend to have higher performance ratings than non-leavers, especially at the Junior Officer level (2.6 vs. 1.9).
 
