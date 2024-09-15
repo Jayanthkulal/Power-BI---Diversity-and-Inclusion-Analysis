@@ -62,6 +62,31 @@ Shows visualizations from Diversity and Inclusion:
 ###                                                                 Diversity and Inclusion(2/2)   
 ![Screenshot 2024-09-15 191701](https://github.com/user-attachments/assets/bef77c1b-a9a8-4cce-ab7c-2169d5c3d3ba)
 
+## Insights:
+As shown the data Visualization, It can be deduced that:
+- 59% of hires were men, while 41% were women, indicating a gender gap in recruitment favoring men.
+  
+- Promotions seem to be more favorable for men in higher positions, while women are better represented in Junior Officer promotions (52%).
+
+-There's a noticeable gender gap in promotions at the executive level, with women making up only 13% of executives promoted.
+
+- Female leavers tend to have higher performance ratings than non-leavers, especially at the Junior Officer level (2.6 vs. 1.9).
+
+- For men, performance ratings of leavers vs. non-leavers remain relatively close, but non-leavers generally perform better in higher positions.
+
+- For men, performance ratings of leavers vs. non-leavers remain relatively close, but non-leavers generally perform better in higher positions.
+
+- There is a stark male dominance in executive roles, with 87.5% being male in FY20 and 84.2% in FY21.
+
+- This indicates a slight improvement in gender diversity at the executive level but still showcases a significant gap.
+
+- The majority of the workforce is concentrated in the 20–29 age group, followed by the 30–39 age group.
+
+- There is a strong representation of younger employees at the Junior Officer level, which could impact the overall turnover rate.
+
+- There is a clear disparity in both hiring and promotion rates between men and women, especially in senior positions, suggesting potential barriers to female progression within the organization.
+
+
 
 
 
