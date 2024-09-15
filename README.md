@@ -20,7 +20,7 @@ Calculating the following measures could help to define proper KPIs:
 ## Datasource :
 Dataset used for this task was presented by [Pwc](https://www.pwc.in/)  and Diversity and Inclusion dataset:
 
-Dataset: [Diversity and Inclusion](
+Dataset: [Diversity and Inclusion](https://github.com/Jayanthkulal/Power-BI---Diversity-and-Inclusion-Analysis/blob/main/03%20Diversity-Inclusion-Dataset%20(1).xlsx)
 
 ## Data Preparation:
 Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
@@ -53,7 +53,7 @@ Measures used in all visualization are:
 ## Data Visualization:
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
-Dashboard: View Dashboard
+Dashboard: [View Dashboard](
 
 Shows visualizations from Diversity and Inclusion:
 ###                                                                 Diversity and Inclusion(1/2)                                              
