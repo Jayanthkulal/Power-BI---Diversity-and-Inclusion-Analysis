@@ -53,7 +53,7 @@ Measures used in all visualization are:
 ## Data Visualization:
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
-Dashboard: [View Dashboard](
+Dashboard: [View Dashboard](https://github.com/Jayanthkulal/Power-BI---Diversity-and-Inclusion-Analysis/blob/main/Diversity%20and%20inclusion-pwc.pbix)
 
 Shows visualizations from Diversity and Inclusion:
 ###                                                                 Diversity and Inclusion(1/2)                                              
