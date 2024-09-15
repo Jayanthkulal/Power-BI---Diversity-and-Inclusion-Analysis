@@ -1,1 +1,1 @@
-# Power-BI---Diversity-and-Inclusion-Analysis
+# Power BI-Diversity and Inclusion Analysis
